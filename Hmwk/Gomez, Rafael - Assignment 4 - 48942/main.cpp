@@ -28,6 +28,11 @@ int main(int argc, char** argv) {
     for(int i = 0; i < size; i++){
         cout << v[i] << " ";
     }
+    cout << endl << "Pulled out last item in list " << endl;
+    v.pull(), size--;
+    for(int i = 0; i < size; i++){
+        cout << v[i] << " ";
+    }
     return 0;
 }
 

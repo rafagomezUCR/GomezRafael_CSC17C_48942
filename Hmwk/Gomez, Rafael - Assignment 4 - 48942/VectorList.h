@@ -121,6 +121,25 @@ void SimpleList<T>::push(T value){
 }
 
 template <class T>
+void SimpleList<T>::pull(){
+    Node *prev;
+    Node *nodePtr;
+    if(head == NULL){
+        cout << "List is empty" << endl;
+    }
+    else{
+        nodePtr = head;
+        while(nodePtr->next != NULL){
+            prev = nodePtr;
+            nodePtr = nodePtr->next;
+        }
+        prev->next = NULL;
+        delete nodePtr;
+    }
+    listSize--;
+}
+
+template <class T>
 void SimpleList<T>::subError(){
     cout << "Subscript error";
     exit(EXIT_FAILURE);

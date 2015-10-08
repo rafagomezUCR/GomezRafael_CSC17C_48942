@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Debug=dist/Debug/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Debug=vectorlist
-CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/vectorlist
+CND_ARTIFACT_NAME_Debug=gomez__rafael_-_assignment_4_-_48942
+CND_ARTIFACT_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/gomez__rafael_-_assignment_4_-_48942
 CND_PACKAGE_DIR_Debug=dist/Debug/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Debug=vectorlist.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/vectorlist.tar
+CND_PACKAGE_NAME_Debug=gomez,rafael-assignment4-48942.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/Cygwin_4.x-Windows/package/gomez,rafael-assignment4-48942.tar
 # Release configuration
 CND_PLATFORM_Release=Cygwin_4.x-Windows
 CND_ARTIFACT_DIR_Release=dist/Release/Cygwin_4.x-Windows
-CND_ARTIFACT_NAME_Release=vectorlist
-CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/vectorlist
+CND_ARTIFACT_NAME_Release=gomez__rafael_-_assignment_4_-_48942
+CND_ARTIFACT_PATH_Release=dist/Release/Cygwin_4.x-Windows/gomez__rafael_-_assignment_4_-_48942
 CND_PACKAGE_DIR_Release=dist/Release/Cygwin_4.x-Windows/package
-CND_PACKAGE_NAME_Release=vectorlist.tar
-CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/vectorlist.tar
+CND_PACKAGE_NAME_Release=gomez,rafael-assignment4-48942.tar
+CND_PACKAGE_PATH_Release=dist/Release/Cygwin_4.x-Windows/package/gomez,rafael-assignment4-48942.tar
 #
 # include compiler specific variables
 #

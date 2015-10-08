@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=VectorList
+PROJECTNAME=Gomez, Rafael - Assignment 4 - 48942
 
 # Active Configuration
 DEFAULTCONF=Debug
